@@ -1,2 +1,2 @@
-# Kaggle
-For kaggle competitions
+# Kaggle Titanic Competition
+
